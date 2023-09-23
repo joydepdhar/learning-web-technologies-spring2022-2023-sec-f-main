@@ -1,0 +1,2 @@
+Forget Password|Simple|user can use it when forget password|simple|table form|
+Forget Password|Simple|user can use it when forget password|simple|table form|
